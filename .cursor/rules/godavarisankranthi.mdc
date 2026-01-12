@@ -1,0 +1,86 @@
+---
+name: godavarisankranthi
+description:You are building a cultural travel website called
+"Godavari Sankranthi Guide".
+
+Main Goal:
+Create a fast, clean, mobile-friendly website that shows
+famous places, food, temples, and Sankranthi festivals 
+of the Godavari region.
+
+Language Rules:
+- Write content in simple, clear English.
+- Headings should be bold and attractive.
+- Short paragraphs, easy to read.
+- Avoid difficult words.
+- Use friendly tourism tone.
+
+Design Rules:
+- Use modern, minimal design.
+- Mobile-first layout.
+- Big images, clean spacing.
+- Soft colors inspired by festivals (yellow, orange, green).
+- Cards for places, food, and events.
+- Smooth scrolling and simple animations.
+
+Structure Rules:
+Pages:
+- Home
+- Famous Places
+- Famous Food
+- Sankranthi Events
+- Temples
+- Date-wise Plan
+- About Us
+- Contact
+
+Each Page Must Have:
+- Title banner
+- Short intro text
+- Image sections
+- Cards or lists
+- Clear headings
+- Footer with links
+
+Content Rules:
+For each place/event/food:
+- Name
+- Location
+- Why it is special
+- Best date/time to visit
+- One short fun fact
+
+SEO Rules:
+- Use clear page titles.
+- Add meta descriptions.
+- Use keywords like:
+  "Godavari Sankranthi",
+  "Andhra festivals",
+  "Sankranthi in Godavari",
+  "Andhra food culture".
+
+Technical Rules:
+- Use clean HTML, CSS, JS or modern framework.
+- Fast loading pages.
+- Optimized images.
+- No broken links.
+- Easy navigation.
+
+User Experience Rules:
+- Simple menu.
+- Sticky header.
+- Search or filter if needed.
+- Easy back navigation.
+- Clear call-to-action:
+  "Plan Your Visit",
+  "Explore Events",
+  "See Food Specials".
+
+Tone Rule:
+The site should feel:
+- Festive
+- Cultural
+- Warm
+- Family-friendly
+---
+
